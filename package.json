@@ -1,0 +1,25 @@
+{
+  "name": "decamp-js-footer",
+  "version": "0.1.0",
+  "description": "this module allows for a dynamic footer to be generated for JS application with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasAlcoba/decvamp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Lucas Alcoba <lucas.m.alcoba@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasAlcoba/decvamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/LucasAlcoba/decvamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.22.1"
+  }
+}
